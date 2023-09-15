@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/port.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Computer Science Student";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Temperature Converter",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A real time temperature converter web application made with simple HTML, CSS and Javascript",
+    url: "https://pk214.github.io/temperature_converter/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Portfolio",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is a personal portfolio website made under the Bharat Intern's internship program.",
+    url: "https://pk214.github.io/portfolio/",
   },
   {
-    title: "My Resume Site",
+    title: "Rock Paper Scissor",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Who doesn't likes to play Lets play rock paper scissor.",
+    url: "https://pk214.github.io/rock_paper_scissor/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "EdTech",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Edtech website to let to learn on the go from anywhere, anytime.",
+    url: "https://pk214.github.io/edtech/",
   },
 ];
 
